@@ -1,0 +1,13 @@
+name: HelloWorld
+title: HelloWorld
+username:
+account: tanmayag97
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8352856
+bundleId: 6862236
+url: https://tanmayag97.shinyapps.io/HelloWorld/
+when: 1676763198.34777
+lastSyncTime: 1676763198.34778
+asMultiple: FALSE
+asStatic: FALSE
